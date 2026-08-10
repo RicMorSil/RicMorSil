@@ -7,11 +7,8 @@
   <a>🎓 I am a Production Engineering student at FEI.</a>
   
   <a>💼 I currently work as a Mid-Level Quality Analyst at AFNE.</a>
-  
   <a>🌱 I am improving my knowledge of Artificial Intelligence, Quality Management, and Systems Development.</a>
-  
   <a>⚙️ I enjoy using technology, data, and automation to improve processes and support better decisions.</a>
-  
   <a>📊 My interests include Data Analysis, Process Automation, Quality, and Systems Development.</a>
 <h2>🛠️ Technologies & Tools</h2>
 
