@@ -1,12 +1,12 @@
 <!--Título Inicial-->
 <div align="center">
   <h1>Hi, I'm Richard Moreira! 👋</h1>
-  Production Engineering Student | Mid-Level Quality Analyst | Systems Development & Process Automation
+  Production Engineering | Mid-Level Quality Analyst | Systems Development & Process Automation
 </div>
 
 <!--Sobre Mim-->
 <h2>👨‍💻 About Me</h2>
-  🎓 I am a Production Engineering student at FEI.<br>
+  🎓 I am a Production Engineer from FEI.<br>
   💼 I currently work as a Mid-Level Quality Analyst at AFNE.<br>
   🌱 I am improving my knowledge of Artificial Intelligence, Quality Management, and Systems Development.<br>
   ⚙️ I enjoy using technology, data, and automation to improve processes and support better decisions.<br>
