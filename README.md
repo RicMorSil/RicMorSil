@@ -50,7 +50,7 @@
     <a href="https://www.linkedin.com/in/richard-moreira-1a816a10b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/_richard_moreira/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.facebook.com/richard.moreira.77985/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://github.com/RicMorSil"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a><br><br>
+    <a href="https://github.com/RicMorSil"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a><br>
   </div>
   <div align="center">  
     Technology, quality, and automation working together to improve processes.
