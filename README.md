@@ -63,7 +63,11 @@ I plan to build public portfolio projects using fictional or open data, without 
 
 <div align="center">
 
-<a href="mailto:moreiradasilva.richard@gmail.com" title="Email"><img height="42" alt="Email" src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://www.linkedin.com/in/richard-moreira-1a816a10b/" title="LinkedIn"><img height="42" width="42" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a><a href="https://www.instagram.com/_richard_moreira/" title="Instagram"><img height="42" alt="Instagram" src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://www.facebook.com/richard.moreira.77985/" title="Facebook"><img height="42" alt="Facebook" src="https://img.shields.io/badge/-0866FF?style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://github.com/RicMorSil" title="GitHub"><img height="42" alt="GitHub" src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:moreiradasilva.richard@gmail.com" title="Email"><img height="42" alt="Email" src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/richard-moreira-1a816a10b/" title="LinkedIn"><img height="38" width="38" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.instagram.com/_richard_moreira/" title="Instagram"><img height="42" alt="Instagram" src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.facebook.com/richard.moreira.77985/" title="Facebook"><img height="42" alt="Facebook" src="https://img.shields.io/badge/-0866FF?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://github.com/RicMorSil" title="GitHub"><img height="42" alt="GitHub" src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
