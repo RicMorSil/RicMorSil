@@ -49,21 +49,25 @@ I plan to build public portfolio projects using fictional or open data, without 
 </a>
 &nbsp;&nbsp;<strong>Email de Trabalho</strong>
 <br>
+
 <a href="https://www.linkedin.com/in/richard-moreira-1a816a10b/">
   <img align="center" width="36" height="36" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
 </a>
 &nbsp;&nbsp;<strong>LinkedIn: Richard Moreira</strong>
 <br>
+
 <a href="https://www.instagram.com/_richard_moreira/">
   <img align="center" width="36" height="36" alt="Instagram" src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white">
 </a>
 &nbsp;&nbsp;<strong>Instagram</strong>
 <br>
+
 <a href="https://www.facebook.com/richard.moreira.77985/">
   <img align="center" width="36" height="36" alt="Facebook" src="https://img.shields.io/badge/-0866FF?style=flat-square&logo=facebook&logoColor=white">
 </a>
 &nbsp;&nbsp;<strong>Facebook</strong>
 <br>
+
 <a href="https://github.com/RicMorSil">
   <img align="center" width="36" height="36" alt="GitHub" src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white">
 </a>
