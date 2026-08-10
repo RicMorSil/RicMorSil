@@ -41,7 +41,6 @@ I plan to build public portfolio projects using fictional or open data, without 
 📊 Quality Indicators Dashboard — Data visualization and monitoring of quality indicators.<br>
 🐍 Process Automation with Python — Automated data validation and report generation.<br>
 💻 Quality Management System — A PHP and MySQL application for managing occurrences and action plans.<br>
-<h2>📫 Connect with Me</h2>
 
 <!--Contato-->
 <h2>📫 Connect with Me</h2>
@@ -51,22 +50,31 @@ I plan to build public portfolio projects using fictional or open data, without 
 <a href="mailto:moreiradasilva.richard@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
+&nbsp;&nbsp;<strong>Email de Trabalho</strong>
+<br>
+    
 <a href="https://www.linkedin.com/in/richard-moreira-1a816a10b/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
+    &nbsp;&nbsp;<strong>LinkedIn: Richard Moreira</strong>
+<br>
+    
 <a href="https://www.instagram.com/_richard_moreira/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
+&nbsp;&nbsp;<strong>Instagram</strong>
+<br>
+    
 <a href="https://www.facebook.com/richard.moreira.77985/">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-
+&nbsp;&nbsp;<strong>Facebook</strong>
+<br>
+    
 <a href="https://github.com/RicMorSil">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+&nbsp;&nbsp;<strong>GitHub</strong>
 
 </div>
 Technology, quality, and automation working together to improve processes.
