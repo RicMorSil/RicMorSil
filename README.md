@@ -45,7 +45,7 @@ I plan to build public portfolio projects using fictional or open data, without 
 <!--Contato-->
 <h2>📫 Connect with Me</h2>
 
-<div align="center">
+<div>
 
 <a href="mailto:moreiradasilva.richard@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
