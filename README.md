@@ -4,11 +4,11 @@
 </div>
 
 <h2>👨‍💻 About Me</h2>
-  🎓 I am a Production Engineering student at FEI.
-  💼 I currently work as a Mid-Level Quality Analyst at AFNE.
-  🌱 I am improving my knowledge of Artificial Intelligence, Quality Management, and Systems Development.
-  ⚙️ I enjoy using technology, data, and automation to improve processes and support better decisions.
-  📊 My interests include Data Analysis, Process Automation, Quality, and Systems Development.
+  <a>🎓 I am a Production Engineering student at FEI.</a>
+  <a>💼 I currently work as a Mid-Level Quality Analyst at AFNE.</a>
+  <a>🌱 I am improving my knowledge of Artificial Intelligence, Quality Management, and Systems Development.</a>
+  <a>⚙️ I enjoy using technology, data, and automation to improve processes and support better decisions.</a>
+  <a>📊 My interests include Data Analysis, Process Automation, Quality, and Systems Development.</a>
 <h2>🛠️ Technologies & Tools</h2>
 
 <div align="center">
@@ -25,17 +25,17 @@
 </div>
 
 <h2>🎯 Areas of Interest</h2>
-  Data analysis and visualization
-  Quality management and continuous improvement
-  Systems development
-  Process automation
-  Artificial intelligence applied to business processes
+  <a>Data analysis and visualization</a>
+  <a>Quality management and continuous improvement</a>
+  <a>Systems development</a>
+  <a>Process automation</a>
+  <a>Artificial intelligence applied to business processes</a>
   
 <h2>🚀 Planned Portfolio Projects</h2>
-  I plan to build public portfolio projects using fictional or open data, without exposing confidential organizational information.
-  📊 Quality Indicators Dashboard — Data visualization and monitoring of quality indicators.
-  🐍 Process Automation with Python — Automated data validation and report generation.
-  💻 Quality Management System — A PHP and MySQL application for managing occurrences and action plans.
+  <a>I plan to build public portfolio projects using fictional or open data, without exposing confidential organizational information.</a>
+  <a>📊 Quality Indicators Dashboard — Data visualization and monitoring of quality indicators.</a>
+  <a>🐍 Process Automation with Python — Automated data validation and report generation.</a>
+  <a>💻 Quality Management System — A PHP and MySQL application for managing occurrences and action plans.</a>
 
 <h2>📫 Connect with Me</h2>
 <div align="center">
