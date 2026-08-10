@@ -11,13 +11,9 @@ Production Engineering Student | Mid-Level Quality Analyst | Systems Development
 <h2>👨‍💻 About Me</h2>
 
 🎓 I am a Production Engineering student at FEI.
-
 💼 I currently work as a Mid-Level Quality Analyst at AFNE.
-
 🌱 I am improving my knowledge of Artificial Intelligence, Quality Management, and Systems Development.
-
 ⚙️ I enjoy using technology, data, and automation to improve processes and support better decisions.
-
 📊 My interests include Data Analysis, Process Automation, Quality, and Systems Development.
 
 <h2>🛠️ Technologies & Tools</h2>
